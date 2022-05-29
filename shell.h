@@ -11,10 +11,10 @@ private://私有成员----------------------------------------------------------
     {
         WRG,                                //错误的命令
         SAVE,                               //保存数据命令
-        LOGIN,                              //登录
-        LOGOUT,                             //
-        ADDUSER,                            //
-        DELUSER,                            //
+        LOGIN,                              //登入
+        LOGOUT,                             //登出
+        ADDUSER,                            //添加用户
+        DELUSER,                            //删除用户
     };
     
     enum permion                            //权限级别
